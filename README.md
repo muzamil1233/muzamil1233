@@ -2,10 +2,15 @@
 <!-- # 💫 About Me: -->
 
 👋 Hi, I'm Muzamil Nabi
+
 💻 Frontend Developer & Software Engineer (ex-BlueStock, Tabeeb Healthcare)
+
 🎨 Passionate about crafting responsive, modern, and user-friendly web applications
+
 🌱 Currently exploring advanced React patterns, Material UI, Formik + Yup, and scalable frontend architectures
+
 💡 Experienced in building healthcare systems, dashboards, and real-time apps with APIs, QR codes, and reports
+
 🤝 Open to collaborations on frontend, full-stack projects, and innovative web apps
 
 ###
