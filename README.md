@@ -1,6 +1,12 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 # 💫 About Me:
-👋 Hi, I'm Peer Hashim<br>🚀 Backend Intern at Aseef IT Holding Co.<br>🔧 Passionate about building efficient and scalable backend systems<br>🌱 Currently learning and growing in the world of APIs, databases, and server-side logic<br>💡 Always exploring new backend technologies and clean architecture principles<br>🤝 Open to collaborations and backend development projects
+👋 Hi, I'm Muzamil Nabi
+
+💻 Frontend Developer & Software Engineer (ex-BlueStock, Tabeeb Healthcare)
+🎨 Passionate about crafting responsive, modern, and user-friendly web applications
+🌱 Currently exploring advanced React patterns, Material UI, Formik + Yup, and scalable frontend architectures
+💡 Experienced in building healthcare systems, dashboards, and real-time apps with APIs, QR codes, and reports
+🤝 Open to collaborations on frontend, full-stack projects, and innovative web apps
 
 ###
 
